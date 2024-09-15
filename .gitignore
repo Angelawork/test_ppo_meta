@@ -1,0 +1,16 @@
+/venv
+/venv*
+/data
+/data*
+__pycache__
+/versions
+/.vscode
+*.swp
+*.egg-info
+/wandb
+*.pdf
+/.venv*
+/log*
+*.so.*
+/trust_region_layers_cpp_deps/*
+/runs*

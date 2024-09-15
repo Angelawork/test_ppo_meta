@@ -1,0 +1,9 @@
+torch
+tables
+pandas
+dill
+tensorboardX
+cox
+python-git
+gym
+mujoco-py<2.2,>=2.1
